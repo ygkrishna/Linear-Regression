@@ -186,3 +186,8 @@ for i in range (-2, 3):
                     mean_squared_error(y_test, preds_en))
     plt.annotate(s=overlay,xy=(12.1,10.6),size='x-large')
     plt.show()
+    
+    '''https://www.statisticshowto.datasciencecentral.com/pearsons-coefficient-of-skewness/
+
+Covariance
+https://www.investopedia.com/terms/c/correlationcoefficient.asp'''
